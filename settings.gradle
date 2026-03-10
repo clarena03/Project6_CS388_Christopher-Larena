@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Project5_CS388_Christopher Larena"
+rootProject.name = "Project6_CS388_Christopher Larena"
 include ':app'
