@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Screen_recording_20260309_220953.webm
+<img src='Screen_recording_20260309_220953.webm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ## Notes
 
